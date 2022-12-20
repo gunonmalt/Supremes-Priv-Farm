@@ -46,7 +46,7 @@ end
         _G.Farm = false
     end
         end)
-local section1 = page:addSection("Extra")
+local section1 = page:addSection("Extra!")
         section1:addToggle("Lock Player", nil, function(state)
             print("Toggled", state)
             print(state)
