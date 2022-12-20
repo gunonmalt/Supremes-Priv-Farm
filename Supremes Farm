@@ -348,6 +348,6 @@ colors:addKeybind("Toggle Keybind", Enum.KeyCode.One, function()
 
 local page = venyx:addPage("Credits", 5012544693)
 local section7 = page:addSection("Credits!")
-section7:addButton("Gunonm_alt / Zen - Owner", function()
+section7:addButton("Made By - Gunonm_alt / Zen ", function()
     print("CREDITS - GUNONM_ALT / ZEN")
     end)
